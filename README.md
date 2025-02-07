@@ -37,7 +37,7 @@
 ---
 
 ## 📄 Download My Resume
-🔗 [Click here to download]()
+🔗 [Click here to download](https://github.com/AbdullahUsman07/AbdullahUsman07/raw/master/Resume.pdf)
 
 ---
 
