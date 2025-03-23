@@ -30,8 +30,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="40" height="40"/> 
-</a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="40" height="40"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a>
 </p> 
 
 ---
@@ -40,4 +43,5 @@
 🔗 [Click here to download](https://github.com/AbdullahUsman07/AbdullahUsman07/raw/master/Resume.pdf)
 
 ---
+
 
