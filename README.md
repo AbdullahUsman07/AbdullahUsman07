@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Usman</h1>
 <h3 align="center">A Computer Science Student and Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Flutter-Backend**
+- 🌱 I’m currently doing **Flutter-Internship**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
