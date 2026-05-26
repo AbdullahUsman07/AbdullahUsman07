@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Vision, Advanced Database Systems, and Software Quality Assurance & Testing**
 
-- 💬 Ask me about **Programming, Data Structures, and Algorithms**
+- 💬 Ask me anything about **Programming, Data Structures, and Algorithms**
 
 - 📫 How to reach me: **abdusman660@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK_HERE" target="blank">
+<a href="https://www.linkedin.com/in/abdullah-usman-aa0420263/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
@@ -40,6 +40,10 @@
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
@@ -89,13 +93,13 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahUsman07&show_icons=true&locale=en&layout=compact" alt="AbdullahUsman07" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahUsman07&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahUsman07&show_icons=true&locale=en" alt="AbdullahUsman07" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahUsman07&show_icons=true&locale=en" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahUsman07&" alt="AbdullahUsman07" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahUsman07&"  />
 </p>
