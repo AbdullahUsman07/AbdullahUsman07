@@ -5,9 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=AbdullahUsman07&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahUsman07" />
 </p>
 
-- 🎓 I’m currently in my **Junior Year (6th Semester) at QAU, Islamabad**
+- 🎓 I’m entering my **Final Year (7th Semester) at QAU, Islamabad**
 
-- 🌱 I’m currently learning **Computer Vision, Advanced Database Systems, and Software Quality Assurance & Testing**
+- 💼 I’m currently an **Intern at Eynvision**
+
+- 🌱 I’m currently learning **AI Engineering, RAG Systems, and Intelligent Workflows**
 
 - 💬 Ask me anything about **Programming, Data Structures, and Algorithms**
 
