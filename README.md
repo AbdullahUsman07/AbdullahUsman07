@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Usman</h1>
-<h3 align="center">A Computer Science Student and Flutter Developer passionate about building scalable applications, exploring AI/ML, and solving real-world problems through technology.</h3>
+<h3 align="center">A Computer Science Student and Flutter Developer foucsed on building Intelligent Systems.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AbdullahUsman07&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahUsman07" />
@@ -7,15 +7,13 @@
 
 - 🎓 I’m entering my **Final Year (7th Semester) at QAU, Islamabad**
 
-- 💼 I’m currently an **Intern at Eynvision**
-
 - 🌱 I’m currently learning **AI Engineering, RAG Systems, and Intelligent Workflows**
 
 - 💬 Ask me anything about **Programming, Data Structures, and Algorithms**
 
 - 📫 How to reach me: **abdusman660@gmail.com**
 
-- 📄 Know about my experiences: **[Portfolio Website Coming Soon](https://example.com)**
+- 📄 Know about my experiences: **[Portfolio Website](https://abdullahusman07.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
