@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=AbdullahUsman07&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahUsman07" />
 </p>
 
-- 🎓 I’m entering my **Final Year (7th Semester) at QAU, Islamabad**
+- 🎓 I’m currently in my **Final Year (7th Semester) at QAU, Islamabad**
 
-- 🌱 I’m currently learning **AI Engineering, RAG Systems, and Intelligent Workflows**
+- 🌱 I’m currently working with **MERN Stack, Compiler Construction, & Deep Learning**
 
 - 💬 Ask me anything about **Programming, Data Structures, and Algorithms**
 
